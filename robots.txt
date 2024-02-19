@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Mothigowtham.github.ioportfolio# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
+Sitemap: https://Mothigowtham.github.io/sitemap.xml
