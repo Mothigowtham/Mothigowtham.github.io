@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mothigowtham.github.io/sitemap.xml
+Sitemap: https://Mothigowtham.github.io/sitemap.xml
