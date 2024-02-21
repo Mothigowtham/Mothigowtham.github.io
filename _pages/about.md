@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ashok Kumar # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <div style="text-align: center;">
+    <p>Located in Indiana, USA</p>
+    </div>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,4 +19,33 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Mothi Gowtham! I am a data scientist! I play with data where I find insights.
+<div style="text-align: justify;">
+
+<p> Hey there! I am Mothi, a data scientist dedicated to turning complex data into compelling stories and actionable insights. My goal is to leverage my skills and expertise to help companies achieve their vision of empowering users and going after what's next. </p>
+
+<p> My core competencies include applying advanced statistical methods, machine learning techniques, and data visualization tools to analyze large and complex datasets, identify patterns and trends, and generate actionable insights and recommendations. </p>
+
+<p> I also have a academic background, with a Masters in Data Science from The Indiana University. And, I'm currently a Data Science Intern at ClearObject with a focus on Computer Vision, Deep Learning and Machine Learning. </p>
+
+<p> My passion for exploration isn't limited to data; it extends to the great outdoors through trail running and hiking, the competitive spirit of tennis and basketball, and the simple joy of doodling. </p>
+
+<p> But that's just the beginning. My days are filled with the melodies of my favorite tunes, the warmth of conversations with friends, and the adventure of cooking new recipes. I cherish roaming around with friends, discovering new places, and soaking in new experiences. </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>
