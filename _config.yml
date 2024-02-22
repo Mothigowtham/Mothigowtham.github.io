@@ -479,12 +479,12 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
+  - skills
   - projects
-  - volunteer
+  - publications
   - awards
   - certificates
-  - skills
   - languages
-  - interests
-  - references
+# - volunteer
+#  - interests
+#  - references

@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /cv/ 
+title: CV # This is the name of the titles name of the header
 nav: true
 nav_order: 5
 cv_pdf: Mothi Gowtham Resume.pdf

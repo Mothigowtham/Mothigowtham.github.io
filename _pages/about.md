@@ -23,14 +23,15 @@ social: true # includes social icons at the bottom of the page
 
 <p> Hey there! I am Mothi, a data scientist dedicated to turning complex data into compelling stories and actionable insights. My goal is to leverage my skills and expertise to help companies achieve their vision of empowering users and going after what's next. </p>
 
-<p> My core competencies include applying advanced statistical methods, machine learning techniques, and data visualization tools to analyze large and complex datasets, identify patterns and trends, and generate actionable insights and recommendations. </p>
+<p> My core competencies include applying advanced statistical methods, machine learning techniques, and data visualization tools to analyze large and complex datasets, identify patterns and trends, and produce practical recommendations and strategies. </p>
 
-<p> I also have a academic background, with a Masters in Data Science from The Indiana University. And, I'm currently a Data Science Intern at ClearObject with a focus on Computer Vision, Deep Learning and Machine Learning. </p>
+<p> I possess a Masters degree in Data Science from Indiana University and am currently working as a Data Science Intern at ClearObject, specializing in Computer Vision, Deep Learning and Machine Learning. </p>
 
-<p> My passion for exploration isn't limited to data; it extends to the great outdoors through trail running and hiking, the competitive spirit of tennis and basketball, and the simple joy of doodling. </p>
+<p> Apart from crunching numbers, my passion for exploration isn't limited to data; it extends to the great outdoors with trail running and hiking, the competitive spirit of tennis and basketball, and the simple joy of doodling. </p>
 
-<p> But that's just the beginning. My days are filled with the melodies of my favorite tunes, the warmth of conversations with friends, and the adventure of cooking new recipes. I cherish roaming around with friends, discovering new places, and soaking in new experiences. </p>
+<p> But that's just the beginning. My days are enriched with the melodies of my favorite tunes, the warmth of conversations with friends, and the adventure of trying new recipes. I cherish roaming around with friends, discovering new places, and soaking in new experiences. </p>
 
+<br>
 <br>
 <br>
 <br>

@@ -5,24 +5,10 @@
     "image": "",
     "email": "mothigowtham.a@gmail.com",
     "phone": "(765) ***-****",
-    "linkedIn": "https://www.linkedin.com/in/mothigowtham",
+    "linkedin": "https://www.linkedin.com/in/mothigowtham",
     "github": "https://github.com/mothigowtham",
     "tableau": "https://public.tableau.com/app/profile/mothigowtham",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "I'm a Passionate, solutions-oriented Data Scientist with a keen interest in leveraging data-driven, machine learning, and AI technologies to drive business improvement. Boasting over 5 years of experience in the field, I've made significant contributions in various data science capacities across multiple industries including Healthcare, Oil, Gas and Petroleum, IoT development, and Technology."
   },
   "work": [
     {
@@ -30,189 +16,153 @@
       "position": "Data Science Intern",
       "url": "",
       "startDate": "2024-01-01",
-      "endDate": "present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "now",
+      "summary": ["Led a computer vision project for quality control in manufacturing, handling data collection, labelling and model fine-tuning on GCP with PyTorch and TensorFlow.",
+                  "Focused on segmentation (U-net), detection (YOLO), and classification models. Monitored and Deployed models on edge devices and implemented in real-time client applications with NVIDIA’s TensorRT & DeepStream for boosting operational efficiency."],
+      "highlights": "Python, PySpark, OpenCV, PyTorch, TensorFlow, Google Cloud, Darwin V7, ONNX, YOLO, U-net, NVIDIA's TensorRT, DeepStream"
     },
     {
       "name": "The Polis Center",
       "position": "Data Science Intern",
       "url": "",
       "startDate": "2023-05-01",
-      "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "Now",
+      "summary": ["Managed data analysis for Central Indiana State, covering data cleaning, exploratory work, statistical modeling, and reporting.", 
+                  "Crafted 3 precise regression models to forecast aging trends, achieving 95% accuracy, and uncovering a significant 12% rise inthe population aged 65+ over the last decade. Reported Key Performance Indicators (KPIs) to technical & non-technical audiences.",
+                  "Coordinated with a diverse range of stakeholders & experts over 6 months in decision making to ensure data quality and relevance."],
+      "highlights": "Python, R, SQL, ETL, Machine Learning, Data Engineering, Forecasting"
     },
     {
       "name": "Indiana University",
-      "position": "Research Assistant Data Science",
+      "position": "Data Science Research Assistant",
       "url": "",
-      "startDate": "202-08-01",
-      "endDate": "2023-09-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2022-08-01",
+      "endDate": "2023-09-30",
+      "summary": ["Published a paper on Data-To-Question Generation Using Deep Learning by improving keyword extraction and questiongeneration accuracy rate to 30% with Natural Language Processing (NLP) models (NLTK, LDA, BERT, & SpaCy).", 
+                  "Formulated semantically correct questions by calculating the semantic distance of over 1000 keywords from multi-dimensionaldatasets, deploying ML data pipelines, and the pre-trained Deep Learning Neural Network models SHERLOCK & SATO."],
+      "highlights": "Deep Learning, Neural Networks, NLP, Python"
     },
     {
-      "name": "The Polis Center",
-      "position": "Data Science Intern",
+      "name": "Vugha Technological Solutions",
+      "position": "Data Analyst",
       "url": "",
-      "startDate": "2023-05-01",
-      "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "startDate": "2021-03-01",
+      "endDate": "2022-06-30",
+      "summary": ["Decreased the Total Recordable Incident Rate (TRIR) by 12% for an Energy: Oil and Gas client by implementing forecastingalgorithms, with results visualized in reports, charts and dashboards using Tableau/Matplotlib/Seaborn/ggplot.", 
+                  "Performed data engineering, predictive modeling, including Clustering, resulting in a 20% diminution in Accident rate.",
+                  "Optimized data extraction and transformations processes (ETL) using Python resulted in a 60% processing time reduction."],
+      "highlights": "Python, ETL, Tableau, Power BI, Analysis"
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "e-Soft IT Solutions",
+      "position": "Database Administrator",
+      "url": "",
+      "startDate": "2019-06-17",
+      "endDate": "2021-02-24",
+      "summary": ["Proficiently designed and implemented SQL queries, generating over 1000 tables, stored procedures, and views to data managementwhile transforming the data, resulting in a 10-hour weekly minimization in manual effort.", 
+                  "Developed SQL automation processes to bolster system reliability and performance, cutting downtime by 12%.", 
+                  "Collaborated with cross-functional teams to resolve DB-related issues, amplifying user experience, and minimizing disruptions."],
+      "highlights": "SQL, MySQL, SQL Server, NoSQL and other SQL databases"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Indiana University",
+      "location": "Indianapolis",
+      "url": "",
+      "area": "Data Science",
+      "studyType": "Master's Degree",
+      "startDate": "2022",
+      "endDate": "2024",
+      "score": "3.9",
+      "courses": [
+                  "Deep Learning",
+                  "Data Analytics",
+                  "Linear Algebra",
+                  "Cloud Computing",
+                  "Database Management",
+                  "Statistical Inference", 
+                  "Introduction to Informatics",
+                  "Natural Language Processing",
+                  "Applied Econometics and Forecasting"
+    ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "Anna University",
+      "location": "India",
+      "url": "",
+      "area": "Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2015",
+      "endDate": "2019"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Languages & Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "keywords": ["Python, R, Pandas, SciKit-Learn, TensorFlow, PyTorch, PySpark, Keras, NumPy, Pandas, ONNX, TensorRT, DeepStream, OpenCV"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Predictive Modeling",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Boosting Regression/ Classification (LightGBM, XGBoost, LDA), Decision Trees, Recommendation Systems, Support Vector Machines, Neural Network Architectures (CNN, RCNN, Mask R-CNN, YOLO, Transformers)"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Cloud Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["AWS, Azure, Google Cloud Platform (Cloud Run, Cloud Functions, BigQuery, VertexAI, Firebase), Hadoop"]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["ETL pipeline development, containerization (Docker / Kubernetes)"]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python (Matplotlib, Plotly, Seaborn, R (ggplot), Tableau, PowerBI"]
+    },
+    {
+      "name": "Probability & Statistics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Hypothesis testing, A/B testing, Linear Algebra, Naive Bayes, Causal Inference"]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["SQL (MySQL, SQLite), NoSQL, (MongoDB, Firestore)"]
+    },
+    {
+      "name": "Version Control",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Git, GitHub"]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["APIs, MS Office, Excel, Google Workspace"]
+    },
+    {
+      "name": "Times-Series Forecasting",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["ARIMA, SARIMA, Exponential Smoothing"]
+    },
+    {
+      "name": "Generative AI Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["LangChain, Vector/Embedding DBs (Pinecone, Chroma), Semantic Search"]
     }
   ],
   "projects": [
@@ -223,6 +173,45 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Data-To-Question Generation Using Deep Learning",
+      "publisher": "2023 4th International Conference on Big Data Analytics and Practices",
+      "releaseDate": "2023-08-26",
+      "url": "https://ieeexplore.ieee.org/document/10271940",
+      "summary": "This paper presents a system designed to automatically generate insightful questions from relational datasets, aiming to improve public access and utilization of data from governmental and non-governmental organizations. The process involves data extraction, cleaning, pre-processing, entity recognition via deep learning, and question formulation. The study demonstrates that this method can produce questions that are comparable or even superior in accuracy to those generated by AI engines like ChatGPT, highlighting its potential to enhance factual understanding of datasets while acknowledging current limitations and future work directions."
+    }
+  ],  
+  "awards": [
+    {
+      "title": "Vugha Rise and Shine",
+      "date": "Q1-2022",
+      "awarder": "Vugha Technological Solutions",
+      "url": "",
+      "summary": "Awarded for demonstrating a remarkable ability in learning and contributing significantly to the clients requirements.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],  
+  "languages": [
+    {
+      "language": "Tamil",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ]
 }
