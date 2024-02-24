@@ -167,12 +167,20 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Isolated Sign Language Recognition usign Deep Learning",
+      "summary": "The ISLR project aimed at developing a deep learning application to recognize American Sign Language (ASL) signs, offering a solution to the challenge of language acquisition for the deaf and hard-of-hearing community. Utilizing Google's MediaPipe for spatial data extraction, the project processed videos from 21 participants signing 250 unique words, creating a dataset that captures the nuances of ASL.",
+      "highlights": ["Deep Learning, Neural Networks, Python, NumPy, TensorFlow (Fully Connected Neural Networks, RNN, LSTM, GRU"],
+      "startDate": "2023",
+      "endDate": "",
+      "url": "https://github.com/Mothigowtham/Isolated-Sign-Language-Recognition-Deep-Learning"
+    },
+    {
+      "name": "Data-To-Question Generation Using Deep Learning",
+      "summary": "This project integrates deep learning models like Sherlock for semantic typing and entity recognition, accurately categorizing dataset columns to understand data context. This foundational step enables our innovative question formulation method, which leverages column names, associated values, and semantic operators to craft meaningful and relevant inquiries. Our prototype's results highlight its capability to generate factual and insightful questions, outperforming conventional AI models like ChatGPT in terms of dataset fact adherence. While ChatGPT excels in question fluency, our system prioritizes factual accuracy and relevance, showcasing a promising approach for enhancing data exploration and understanding through precise question generation.",
+      "highlights": ["Deep Learning, Neural Network, Natural Language Processing, NLTK, LDA, BERT, SpaCy"],
+      "startDate": "2023",
+      "endDate": "",
+      "url": "https://github.com/Mothigowtham/Data-To-Question-Generation-Deep-Learning-IBDAP-International-conference"
     }
   ],
   "publications": [

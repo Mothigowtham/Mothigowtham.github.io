@@ -31,22 +31,7 @@ social: true # includes social icons at the bottom of the page
 
 <p> But that's just the beginning. My days are enriched with the melodies of my favorite tunes, the warmth of conversations with friends, and the adventure of trying new recipes. I cherish roaming around with friends, discovering new places, and soaking in new experiences. </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 </div>
